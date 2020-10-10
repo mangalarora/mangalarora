@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**mangalarora/mangalarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**I'm Mangal, from priXaro**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Who am I ? ..., so basically I am an Android Developer.
+
+- 💼 Founder @priXaro
+- 🌍 Lives in India.
+- 🔭 Started out on Android, now I secretly enjoy writing JavaScript (well, TypeScript).
+- 🌱 I’m currently learning AngularJs, django.
+- 👯 I’m looking to collaborate on Real World Problem Solving Android Project.
+- 💬 Ask me about : Android App Development Help.
+- 📫 How to reach me: mnglarora@gmail.com or https://wa.me/message/WJIGGOWUJ2DIG1
+- 👩‍💻 Love talking to developers on GitHub
+- ⚡ Fun fact: I also make shot animated movies liknks below to my YTChannel
+      
+      https://www.youtube.com/mnglarora
