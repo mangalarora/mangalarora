@@ -1,9 +1,8 @@
 ### Hi there 👋
-</br>
+
 **I'm Mangal, from priXaro**
 <img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
-</br>
-</br>
+
 Who am **I** ?, so basically I'm an **Android Developer**.
 
 - 💼 Founder **@priXaro**
