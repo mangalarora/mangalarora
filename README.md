@@ -15,4 +15,4 @@ Who am **I** ?, so basically I'm an **Android Developer**.
 - 📫 How to **reach me**: mnglarora@gmail.com **or** https://wa.me/message/WJIGGOWUJ2DIG1
 - 👩‍💻 Love talking to developers on GitHub
 - ⚡ Fun fact: I also make short animated movies. **Link is below 👇**
-      - [https://www.youtube.com/mnglarora](https://www.prixaro.com)
+  - [https://www.youtube.com/mnglarora](https://www.prixaro.com)
