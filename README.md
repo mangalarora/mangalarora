@@ -16,3 +16,21 @@ Who am **I** ?, so basically I'm an **Android Developer**.
 - 👩‍💻 Love talking to developers on GitHub
 - ⚡ Fun fact: I also make short animated movies. **Link is below 👇**
   - [https://www.youtube.com/mnglarora](https://www.prixaro.com)
+
+[![GitHub @mangalarora](https://img.shields.io/github/followers/mangalarora?label=follow&style=social)](https://github.com/mangalarora)
+[![Linkedin: /in/mangalarora](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MangalArora/)](https://www.linkedin.com/in/MangalArora/)
+[![Twitter: @mangalarora](https://img.shields.io/twitter/follow/mangalarora?style=social)](https://twitter.com/mangalarora)
+[![Medium Badge](https://img.shields.io/badge/-@mangalarora-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mangalarora)](https://medium.com/@mangalarora)
+[![Polywork Badge](https://img.shields.io/badge/-mangalarora-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/mangalarora)](http://polywork.com/mangalarora)
+  
+
+[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mangalarora&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mangalarora/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangalarora&layout=compact&theme=calm)](https://github.com/mangalarora/github-readme-stats)
+
+
+
+
+
+
+
+
