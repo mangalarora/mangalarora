@@ -8,7 +8,7 @@ Who am **I** ?, so basically I'm an **Android Developer**.
 - 💼 Founder **[@priXaro](https://www.prixaro.com)**
 - 🌍 Lives in India 🇮🇳.
 - 🔭 Started out on **Android**, now I secretly enjoy writing **JavaScript (well, TypeScript)**.
-- 💻 I'm good at Python, Java, C++, PHP, Android Framework, Laravel Framework, Firebase, and Modern Js tech.
+- 💻 I'm good at Python, Java, Kotlin, C++, PHP, Android Framework, Laravel Framework, Firebase, and Modern Js tech.
 - 🌱 I’m currently learning **Angular and django**.
 - 👯 I’m looking to collaborate on **AI/ML** projects.
 - 💬 Ask me about : Android App Development Help.
