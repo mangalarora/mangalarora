@@ -24,8 +24,7 @@ Who am **I** ?, so basically I'm an **Android Developer**.
 [![Polywork Badge](https://img.shields.io/badge/-mangalarora-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/mangalarora)](http://polywork.com/mangalarora)
   
 
-[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mangalarora&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mangalarora/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangalarora&layout=compact&theme=calm)](https://github.com/mangalarora/github-readme-stats)
+[![Mangal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mangalarora&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mangalarora/github-readme-stats)
 
 
 
