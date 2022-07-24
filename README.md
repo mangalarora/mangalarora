@@ -5,7 +5,7 @@
 
 Who am **I** ?, so basically I'm an **Android Developer**.
 
-- 💼 Founder **[@priXaro](https://www.prixaro.com)**
+- 💼 Founder **[@PriXaro](https://www.prixaro.com)**
 - 🌍 Lives in India 🇮🇳.
 - 🔭 Started out on **Android**, now I secretly enjoy writing **JavaScript (well, TypeScript)**.
 - 💻 I'm good at Python, Java, Kotlin, C++, PHP, Android Framework, Laravel Framework, Firebase, and Modern Js tech.
