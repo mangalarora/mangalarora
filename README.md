@@ -9,7 +9,7 @@ Who am **I** ?, so basically I'm an **Android Developer**.
 - 🌍 Lives in India.
 - 🔭 Started out on **Android**, now I secretly enjoy writing **JavaScript (well, TypeScript)**.
 - 💻 I'm good at Python, Java, Kotlin, C++, Android, Django, Ktor, Spring, Firebase, AWS, GC, and Modern Js tech.
-- 🌱 I’m currently learning **Angular and django**.
+- 🌱 I’m currently learning **MAD with Kotlin and Jetpack**.
 - 👯 I’m looking to collaborate on **AI/ML** projects.
 - 💬 Ask me about : Android App Development Help.
 - 📫 How to **reach me**: mnglarora@gmail.com **or** https://wa.me/message/WJIGGOWUJ2DIG1
