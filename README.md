@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Mangal, from priXaro**
+**I'm Mangal, from PriXaro**
 <img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
 
 Who am **I** ?, so basically I'm an **Android Developer**.
