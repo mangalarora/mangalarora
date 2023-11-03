@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://your-image-url-here" alt="Mangal Arora" width="200px">
-</div>
 
 # Hey there, I'm Mangal Arora! 👋
 
@@ -22,6 +19,7 @@
 
 - 💻 Programming Languages: Python, JavaScript, Java, Kotlin, C++, TypeScript
 - 🚀 Frameworks: React, Angular, Node.js, ExpressJs, NestJs, Spring, Ktor, Django
+- 📱 Mobile Technologies: Android, iOS (KMP)
 - 🌐 Web Technologies: HTML, CSS, JavaScript, REST APIs
 - 🛢️ Databases: MongoDB, MySQL, PostgreSQL, Cassandra, Firestore, CockroachDB, Couchbase
 - 📦 DevOps: Docker, Kubernetes, Git, GitHub Actions, Jenkins
@@ -40,10 +38,6 @@ Make sure to check them out, and don't forget to give them a ⭐️ if you find 
 ## 📫 Let's Connect
 
 You can find me on various platforms. Let's connect and build an awesome developer community together:
-
-- 🐦 [Twitter](https://twitter.com/mangalarora): Follow me for updates and tech-related tweets.
-- 💼 [LinkedIn](https://www.linkedin.com/in/mangalarora/): Connect with me professionally.
-- 🌐 [My Portfolio](https://www.mangalarora.com): Visit my website to know more about my work.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40mangalarora-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mangalarora)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mangal%20Arora-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mangalarora/)
