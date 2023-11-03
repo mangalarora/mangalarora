@@ -45,9 +45,9 @@ You can find me on various platforms. Let's connect and build an awesome develop
 - 💼 [LinkedIn](https://www.linkedin.com/in/mangalarora/): Connect with me professionally.
 - 🌐 [My Portfolio](https://www.mangalarora.com): Visit my website to know more about my work.
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40mangalarora-blue)](https://twitter.com/mangalarora)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mangal%20Arora-blue)](https://www.linkedin.com/in/mangalarora/)
-[![Website](https://img.shields.io/badge/Website-www.mangalarora.com-blue)](https://www.mangalarora.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40mangalarora-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mangalarora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mangal%20Arora-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mangalarora/)
+[![Website](https://img.shields.io/badge/Website-www.mangalarora.com-2E86AB?logo=world&logoColor=white&style=for-the-badge)](https://www.mangalarora.com)
 
 
 ## 🤝 Contributing
