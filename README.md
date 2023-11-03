@@ -9,11 +9,6 @@
 
 💬 Feel free to reach out if you want to discuss anything related to software development, open source, or if you just want to have a friendly chat!
 
-## 📊 GitHub Stats
-
-[![Mangal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mangalarora&count_private=true&show_icons=true&theme=dark)](https://github.com/mangalarora)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangalarora&layout=compact&theme=dark)](https://github.com/mangalarora)
 
 ## 🔧 Skills & Tools
 
