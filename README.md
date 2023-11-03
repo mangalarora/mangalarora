@@ -14,7 +14,7 @@
 
 - 💻 Programming Languages: Python, JavaScript, Java, Kotlin, C++, TypeScript
 - 🚀 Frameworks: React, Angular, Node.js, ExpressJs, NestJs, Spring, Ktor, Django
-- 📱 Mobile Technologies: Android, iOS (KMP)
+- 📱 Mobile Technologies: Android, iOS (KMM)
 - 🌐 Web Technologies: HTML, CSS, JavaScript, REST APIs
 - 🛢️ Databases: MongoDB, MySQL, PostgreSQL, Cassandra, Firestore, CockroachDB, Couchbase
 - 📦 DevOps: Docker, Kubernetes, Git, GitHub Actions, Jenkins
