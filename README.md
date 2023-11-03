@@ -12,6 +12,12 @@
 
 💬 Feel free to reach out if you want to discuss anything related to software development, open source, or if you just want to have a friendly chat!
 
+## 📊 GitHub Stats
+
+[![Mangal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mangalarora&count_private=true&show_icons=true&theme=dark)](https://github.com/mangalarora)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangalarora&layout=compact&theme=dark)](https://github.com/mangalarora)
+
 ## 🔧 Skills & Tools
 
 - 💻 Programming Languages: Python, JavaScript, Java, Kotlin, C++, TypeScript
@@ -38,6 +44,11 @@ You can find me on various platforms. Let's connect and build an awesome develop
 - 🐦 [Twitter](https://twitter.com/mangalarora): Follow me for updates and tech-related tweets.
 - 💼 [LinkedIn](https://www.linkedin.com/in/mangalarora/): Connect with me professionally.
 - 🌐 [My Portfolio](https://www.mangalarora.com): Visit my website to know more about my work.
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40mangalarora-blue)](https://twitter.com/mangalarora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mangal%20Arora-blue)](https://www.linkedin.com/in/mangalarora/)
+[![Website](https://img.shields.io/badge/Website-www.mangalarora.com-blue)](https://www.mangalarora.com)
+
 
 ## 🤝 Contributing
 
