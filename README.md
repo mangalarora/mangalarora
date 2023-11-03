@@ -45,7 +45,7 @@ If you're interested in contributing to any of my projects or have ideas for col
 
 ## 💬 Let's Chat
 
-If you have any questions or just want to say hi, you can reach me via email at [your.email@example.com](mailto:your.email@example.com). I'd love to hear from you!
+If you have any questions or just want to say hi, you can reach me via email at [mngl@prixaro.com](mailto:mngl@prixaro.com). I'd love to hear from you!
 
 Thanks for stopping by, and happy coding! 🚀
 
